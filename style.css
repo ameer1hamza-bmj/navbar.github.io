@@ -9,7 +9,7 @@
 .main{
     height: 100vh;
     width: 100vw;
-background-image: url(https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot13-1920x1080-272b178e968290be45bb63609f7d36f4.jpg?resize=1&w=1920);
+background-color: red;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
